@@ -5,7 +5,7 @@
 
 Capstone Project finalizes 9-course Data Science Specialization and it's purpose is to built a Shiny application predicting words based on the last n-number of words input by the user.
 
-–> The tool is available here: https://quora1.shinyapps.io/WordPredictor_Final/
+–> The tool is available here: https://quora1.shinyapps.io/WordPredictor_Final/  
 –> The data used to train the algorith is available here: https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip
 –> Website to the Capstone course providing more background to the project is here: https://www.coursera.org/learn/data-science-project/home/welcome
 –> The following section provides overview of steps undertaken

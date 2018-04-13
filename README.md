@@ -9,24 +9,23 @@ Capstone Project finalizes 9-course Data Science Specialization and it's purpose
 –> Website to the Capstone course providing more background to the project is here: https://www.coursera.org/learn/data-science-project/home/welcome  
 –> The following section provides overview of steps undertaken
 
-##Building of the word-predicting-tool consisted of the following steps:##
-########################################################################
-
-1.Loading and dompiling the data
-2.Pre-processing the data
-3.Computation of n-grams
-4.Setting up a function that uses n-grams to predict next word
-5.Building Shiny application that consumes n-grams (3.) and the "NextWordPredictor" function (4.)
-
-Reference to the files in this repository:
-###########################################
-–> Ngrams_generator - takes care of steps 1,2 and 3
-–> FINAL3 - uses output from Ngrams_generator and based on it builds prediction function - step 4.
-–> ui.R and server.R - take care of step 5 (and screen_shot_of_shiny_application illustrates it)
-
+##Building of the word-predicting-tool consisted of the following steps:##  
+  
+1.Loading and dompiling the data  
+2.Pre-processing the data  
+3.Computation of n-grams  
+4.Setting up a function that uses n-grams to predict next word  
+5.Building Shiny application that consumes n-grams (3.) and the "NextWordPredictor" function (4.)  
+  
+##Reference to the files in this repository:##  
+  
+–> Ngrams_generator - takes care of steps 1,2 and 3  
+–> FINAL3 - uses output from Ngrams_generator and based on it builds prediction function - step 4.  
+–> ui.R and server.R - take care of step 5 (and screen_shot_of_shiny_application illustrates it)  
+  
 ########################################################################################################
 ########################################################################################################
-
+  
 
 
 1. and 2. Detail on preprocessing 

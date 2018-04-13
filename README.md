@@ -1,8 +1,8 @@
 # NaturalLanguageProcessing
 
-##Overview:##  
-#############  
-
+Overview:    
+#################################  
+  
 Capstone Project finalizes 9-course Data Science Specialization and it's purpose is to built a Shiny application predicting words based on the last n-number of words input by the user.
 
 –> The tool is available here: https://quora1.shinyapps.io/WordPredictor_Final/  
@@ -10,8 +10,8 @@ Capstone Project finalizes 9-course Data Science Specialization and it's purpose
 –> Website to the Capstone course providing more background to the project is here: https://www.coursera.org/learn/data-science-project/home/welcome  
 –> The following section provides overview of steps undertaken
 
-##Building of the word-predicting-tool consisted of the following steps:##  
-##########################################################################  
+Building of the word-predicting-tool consisted of the following steps:  
+##############################################   
   
 1.Loading and dompiling the data  
 2.Pre-processing the data  
@@ -19,15 +19,14 @@ Capstone Project finalizes 9-course Data Science Specialization and it's purpose
 4.Setting up a function that uses n-grams to predict next word  
 5.Building Shiny application that consumes n-grams (3.) and the "NextWordPredictor" function (4.)  
   
-##Reference to the files in this repository:## 
-##############################################  
+Reference to the files in this repository:   
+##############################################    
   
 –> Ngrams_generator - takes care of steps 1,2 and 3  
 –> FINAL3 - uses output from Ngrams_generator and based on it builds prediction function - step 4.  
 –> ui.R and server.R - take care of step 5 (and screen_shot_of_shiny_application illustrates it)  
   
-########################################################################################################  
-########################################################################################################  
+################################################################
   
 
 

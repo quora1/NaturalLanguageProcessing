@@ -17,7 +17,7 @@ Capstone Project finalizes 9-course Data Science Specialization and it's purpose
 Building of the word-predicting-tool consisted of the following steps:  
 ##############################################   
   
-1.Loading and dompiling the data  
+1.Loading and compiling the data  
 2.Pre-processing the data  
 3.Computation of n-grams  
 4.Setting up a function that uses n-grams to predict next word  

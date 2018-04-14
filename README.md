@@ -79,7 +79,7 @@ The prediction function grams the words input by the user and matches it with th
 ################################  
   
 Web based application that takes users input, calls function that calls n-grams and spits out prediction. 
-I uploaded a screen shot of the interface in this repository 
+I uploaded a screen shot of the interface in this repository  
 
 
 
